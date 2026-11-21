@@ -15,4 +15,4 @@ The preprocessing procedure includes removing duplicate hyperedges, eliminating 
 
 ## Code Availability
 
-The complete source code of HA-EDRL, including the implementation of the proposed framework and baseline adaptations, will be made publicly available in this repository upon formal acceptance of the paper.
+The complete source code of HA-EDRL, including the implementation of the proposed framework, will be made publicly available in this repository upon formal acceptance of the paper.
